@@ -7,19 +7,19 @@ minimal_mistakes_skin: "default"
 # Site settings
 title: "Ben Johnson"
 subtitle: "PhD Student in Glaciology"
-url: "https://benjohnson02.github.io"
+url: "https://bjohnson02.github.io/"
 
 # Masthead image
-logo: "/assets/images/avatar.png"
+logo: "/assets/images/ben_storglaciaren.png"
 
 # Favicon
-favicon: "/assets/images/IMG_9706.png"
+favicon: "/assets/images/ben_storglaciaren.png"
 
 # Author sidebar info
 author:
   name: Ben Johnson
   bio: "PhD Student in Glaciology at the University of Bristol."
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/ben_storglaciaren.png"
   email: ben.johnson@bristol.ac.uk
   location: Bristol, UK
   links:
@@ -28,7 +28,7 @@ author:
       url: "https://github.com/benjohnson02"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/ben-johnson02"
+      url: "https://www.linkedin.com/in/ben-johnson02/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.uk/citations?user=XXXXXXXXXXX"
